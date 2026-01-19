@@ -70,7 +70,8 @@ The Power BI dashboard provides:
 - Category and segment comparisons
 - Interactive filtering for deeper insights
 
-> *(Add dashboard screenshots here if available)*
+>
+<img width="598" height="323" alt="image" src="https://github.com/user-attachments/assets/217b3c4c-32b0-4e97-bb60-ee916f257c46" />
 
 ---
 
@@ -79,11 +80,3 @@ The Power BI dashboard provides:
 - Identified meaningful trends and patterns
 - Translated data into clear visual insights
 - Communicated results through dashboard and presentation
-
----
-
-## ▶️ How to Run the Project
-
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/project-name.git
